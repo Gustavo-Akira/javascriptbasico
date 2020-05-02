@@ -3,7 +3,7 @@
 #
 ![site](https://user-images.githubusercontent.com/51495282/80871126-47b5fb80-8c81-11ea-9cc1-14f55151b5fe.png)
 
-Esse é um projeto básico de criação de uma página web para calcular o IMC e addicionar junto com a respectiva pessoa a uma tabela.
+Esse é um projeto básico de criação de uma página web para calcular o IMC de um paciente e addicionar junto com o respectivo paciente a uma tabela.
 
 ## Nele é possível:
 - Calcular o IMC de um paciente
